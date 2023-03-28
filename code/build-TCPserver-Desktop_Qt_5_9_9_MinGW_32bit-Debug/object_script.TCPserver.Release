@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\mysql.o
+./release\setport.o
+./release\subserver.o
+./release\tcpclientsocket.o
+./release\tcpserver.o
+./release\moc_mainwindow.o
+./release\moc_mysql.o
+./release\moc_setport.o
+./release\moc_subserver.o
+./release\moc_tcpclientsocket.o
+./release\moc_tcpserver.o
+);

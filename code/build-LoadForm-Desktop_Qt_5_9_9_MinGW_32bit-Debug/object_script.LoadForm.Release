@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\regform.o
+./release\regsucceeform.o
+./release\tcpclient.o
+./release\verifyform.o
+./release\qrc_image.o
+./release\moc_mainwindow.o
+./release\moc_regform.o
+./release\moc_regsucceeform.o
+./release\moc_tcpclient.o
+./release\moc_verifyform.o
+);
